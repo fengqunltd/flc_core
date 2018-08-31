@@ -10,7 +10,7 @@ FlashChain Core
 FlashChain Core is the FlashChain blockchain implementation and command-line interface.
 The web wallet is [FlashChain UI](https://github.com/fengqunltd/flc_ui).
 
-Visit [BitShares.org](https://www.feng-qun.com/) to learn aboutflashchain and join the community at [BitSharesTalk.org](https://flashchain.org/).
+Visit [BitShares.org](https://www.feng-qun.com/) to learn aboutflashchain and join the community at [flashchaintalk.org](https://flashchain.org/).
 
 **NOTE:** The officialflashchain git repository location, default branch, and submodule remotes were recently changed. Existing
 repositories can be updated with the following steps:
@@ -77,7 +77,7 @@ Use `help` to see all available wallet commands. Source definition and listing o
 
 Support
 -------
-Technical support is available in the [BitSharesTalk technical support subforum](https://flashchain.org/index.php?board=45.0).
+Technical support is available in the [flashchaintalk technical support subforum](https://flashchain.org/index.php?board=45.0).
 
 BitShares Core bugs can be reported directly to the [issue tracker](https://github.com/fengqunltd/flc_core/issues).
 
