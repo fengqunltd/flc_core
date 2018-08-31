@@ -79,9 +79,9 @@ Support
 -------
 Technical support is available in the [flashchaintalk technical support subforum](https://flashchain.org/index.php?board=45.0).
 
-BitShares Core bugs can be reported directly to the [issue tracker](https://github.com/fengqunltd/flc_core/issues).
+flashchain Core bugs can be reported directly to the [issue tracker](https://github.com/fengqunltd/flc_core/issues).
 
-BitShares UI bugs should be reported to the [UI issue tracker](https://github.com/fengqunltd/flc_ui/issues)
+flashchain UI bugs should be reported to the [UI issue tracker](https://github.com/fengqunltd/flc_ui/issues)
 
 Using the API
 -------------
@@ -227,5 +227,5 @@ FAQ
  
 License
 -------
-BitShares Core is under the MIT license. See [LICENSE](https://github.com/fengqunltd/flc_core/blob/master/LICENSE.txt)
+flashchain Core is under the MIT license. See [LICENSE](https://github.com/fengqunltd/flc_core/blob/master/LICENSE.txt)
 for more information.
