@@ -1,4 +1,4 @@
-# Defines BitShares library target.
+# Definesflashchain library target.
 project( FlashChain )
 cmake_minimum_required( VERSION 2.8.12 )
 
