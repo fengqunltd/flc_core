@@ -1,3 +1,6 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/bitshares/bitshares-core.wiki
+[submodule "libraries/fc"]
+	path = libraries/fc
+	url = https://github.com/bitshares/bitshares-fc
